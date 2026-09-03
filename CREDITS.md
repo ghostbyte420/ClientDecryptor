@@ -8,4 +8,4 @@
 - praxiiz
 
 ```Assistance```
-- GitHub Co-Pilot (Claude Sonnet 5)
+- GitHub Co-Pilot (Claude Sonnet)
